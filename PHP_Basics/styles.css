@@ -21,6 +21,7 @@ body{
     border-radius: 20px;
     flex-direction: column;
     position: relative;
+    overflow-y: scroll;
 }
 
 #container{
@@ -141,15 +142,4 @@ div.psychonauts2:hover, a.psychonauts2:hover ~ div{
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 1;
-}
-
-.char{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: repeat(3, 1fr);
-    height: 100px;
-}
-
-img{
-    height: 100px;
 }

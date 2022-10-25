@@ -1,0 +1,22 @@
+.char {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(3, 1fr);
+    width: 100%;
+    margin-top: 75px;
+}
+
+h2{
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+
+img{
+    max-height: 620px;
+    grid-row: 1/4;
+    justify-self: center;
+}
+
+.char > p {
+    grid-column: 2;
+}

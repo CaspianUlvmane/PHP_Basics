@@ -11,7 +11,7 @@
         ],
         
         ["name" => 'Hollis Forsythe',
-         "info" => `Hollis Forsythe is the Second Head of the Psychonauts (formally the "Lesser Head", though she isn't fond of this term), taking over whenever Truman Zanotto is unavailable or unable to take the lead.`,
+         "info" => 'Hollis Forsythe is the Second Head of the Psychonauts (formally the "Lesser Head", though she isn`t fond of this term), taking over whenever Truman Zanotto is unavailable or unable to take the lead.',
          "image" => "Hollisrender.webp"
         ],
         
@@ -21,13 +21,14 @@
         ],
         
         ["name" => 'Samantha "Sam" Boole',
-        "info" => `Samantha[1] "Sam" Boole is a Junior Psychonaut and former Psychonaut intern stationed at the Motherlobe. She is Dogen's older sister and Compton's granddaughter.`,
-        "intern",
+        "info" => 'Samantha "Sam" Boole is a Junior Psychonaut and former Psychonaut intern stationed at the Motherlobe. She is Dogen`s older sister and Compton`s granddaughter.',
+        "intern" => true,
          "image" => "Samrender.webp"
         ],
         
         ["name" => 'Gisu Nerumen',
          "info" => "Gisu is an engineering expert who is very good at skateboarding. She is energetic, high energy, and has a bright personality. She is passionate about inventing gadgets with her mentor.",
+         "intern" => true,
          "image" => "Gisurender.webp"
         ]
     ];
