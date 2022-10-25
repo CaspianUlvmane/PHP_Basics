@@ -8,7 +8,16 @@
  require_once"./core/nav.php";
 ?>
 
-    <p>P1 Bror</p>
+<?php
+    require_once"./p1_info/p1_info.php";
+    echo "<p>$p1_info</p>";
+    require_once"./p1_info/p1_chars.php";
+    ?>
+    <pre>
+    <?php
+        var_dump($p1chars);
+    ?>
+    </pre>
 
 <?php
  require_once"./core/footer.php";

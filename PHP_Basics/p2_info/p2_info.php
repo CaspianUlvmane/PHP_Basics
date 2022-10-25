@@ -1,0 +1,5 @@
+<?php
+
+$p2_info = "Psychonauts 2 is a platform video game developed by Double Fine Productions and the sequel to Psychonauts and Psychonauts in the Rhombus of Ruin, headed by former LucasArts employee Tim Schafer. It was initially announced during the Game Awards on December 3rd, 2015. It was crowdfunded on Fig.com, and reached 116% of its $3.3 million goal on January 6th, 2016. According to the campaign page, the game is planned to be released for PlayStation 4, Xbox One, PC, macOS, and Linux, originally with a tentative release date of Fall 2018. It was changed to 2019, then 2020, and later 2021. It was released on August 25th, 2021 on Xbox Series X/S, Xbox One, Playstation 4, Playstation 5 via backwards compatibility, and PC via Steam, GOG, DRM Free, the Humble store, and the Microsoft store. It will release on Mac and Linux shortly after launch.";
+
+?>
